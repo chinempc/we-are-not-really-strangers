@@ -7,7 +7,7 @@ level,question
 1,What do you think I'm going to do in the future (work/employment)?
 1,What was your first impression of me?
 1,Do you think I was popular in high school?
-1,On a scale of 1 - 10, how messy do you think my car is?
+1,"On a scale of 1 - 10, how messy do you think my car is?"
 1,Do you think I like hot cheetos?
 1,Do you think I like to read?
 1,Do you think I'm in Greek Life?
@@ -19,7 +19,7 @@ level,question
 2,What's the last thing you lied about? -
 2,What is your most defining characteristic?
 2,Are you lying to yourself about anything?
-2,How are you, really?
+2,"How are you, really?"
 2,What is your least favorite personality trait in a person?
 2,When is the last time you felt lucky to be you?
 2,Which one of your parent's personality traits do you want to keep/ let go of?
@@ -33,7 +33,7 @@ level,question
 2,What is your favorite adjective with which to be described?
 2,What are you still trying to prove to yourself?
 2,When is the last time you cried?
-2,If you could instill one personality trait in your child, what would it be?
+2,"If you could instill one personality trait in your child, what would it be?"
 2,What's the hardest part about dating you?
 2,What's your favorite song lyric that you can think of off the top of your head? -
 2,Think of someone that you admire. What made you think about them specifically?
@@ -41,14 +41,14 @@ level,question
 2,What's a phrase that you say that you wish you would stop saying?
 3,Based on what you learned about me what would you recommend I read?
 3,What about me surprised you?
-3.Based on what you know about me, do you have a Netflix recommendation?
+3."Based on what you know about me, do you have a Netflix recommendation?"
 3,What do you think my superpower is?
 3,What do you think our most important similarities are?
 3,What do you think is one thing I could do that would drastically improve my life?
 3,What would be the perfect gift for me?
 3,How would you describe me to a stranger?
 3,What do I need to hear right now?
-3,Based on what you've learned about me, does my social media portray me accurately?
+3,"Based on what you've learned about me, does my social media portray me accurately?"
 3,What is a lesson you will take away from our conversation?
 3,What can I help you with?
 3,What do you think do I fear the most?
@@ -65,18 +65,18 @@ level,question
 3,What do you think my defining characteristic is?
 3,What question were you most afraid to answer?
 3,Why do you think we met?
-3,When this game is over, what will be something you will remember about me?
+3,"When this game is over, what will be something you will remember about me?"
 3,What do you think my weakness is?
 3,How do our personalities compliment each other?
 3,What do you think I should know about myself that perhaps I'm unaware of?
 3,What would make you feel closer to me?
 3,What do you admire most about me?
-3,In one word, describe how you feel right now.
-3,Do you believe everyone has a calling? If so, do you think I've found mine?
+3,"In one word, describe how you feel right now."
+3,"Do you believe everyone has a calling? If so, do you think I've found mine?"
 3,What can we create together?
 3,What answer of mine made you light up?
 3,What's the most attractive quality about me that isn't physical?
-3,If you made a playlist for me, what three songs will be on it?
+3,"If you made a playlist for me, what three songs will be on it?"
 3,What do I need to watch as soon as I have time?
 3,How can I best be there for you during this chapter in your life?
 WILDCARD,Based on what you learned re-write each other's dating app bios. (30 sec)
@@ -84,12 +84,12 @@ WILDCARD,DRAW A PICTURE TOGETHER (30 SECS)
 WILDCARD,LOOK INTO EACH OTHER'S EYES FOR 30 SECONDS. WHAT DID YOU NOTICE?
 WILDCARD,WRITE A MESSAGE TO EACH OTHER AND GIVE IT TO EACH OTHER. OPEN IT ONCE YOU HAVE LEFT.
 WILDCARD,WRITE A MESSAGE TO EACH OTHER AND GIVE IT TO EACH OTHER. OPEN IT ONCE YOU HAVE LEFT
-WILDCARD,THINK OF YOUR FAVOURITE CHILDHOOD TV SHOW OF ALL TIME, ON THE COUNT OF THREE SAY IT OUTLOUD (BOTH PLAYERS)
+WILDCARD,"THINK OF YOUR FAVOURITE CHILDHOOD TV SHOW OF ALL TIME, ON THE COUNT OF THREE SAY IT OUTLOUD (BOTH PLAYERS)"
 WILDCARD1,TAKE A SELFIE TOGETHER
 WILDCARD,STARING CONTEST. FIRST-PERSON TO BLINK MUST REVEAL A PERSONAL PROBLEM AND ASK THE OTHER FOR ADVICE ON HOW THEY MIGHT HANDLE IT.
 WILDCARD,CREATE YOUR OWN QUESTION. ANYTHING. MAKE IT COUNT.
-WILDCARD,TELL THE OTHER PERSON TO CLOSE THEIR EYES AND TO KEEP THEM CLOSED. (WAIT 10 SECONDS. DESCRIBE TO THEM IN DETAIL YOUR FAVOURITE MEMORY OF THEM/ TWO OF YOU),WILDCARD
-TELL THE OTHER PERSON TO CLOSE THEIR EYES AND TO KEEP THEM CLOSED. (WAIT 15 SECONDS AND KISS THEM)
+WILDCARD,TELL THE OTHER PERSON TO CLOSE THEIR EYES AND TO KEEP THEM CLOSED. (WAIT 10 SECONDS. DESCRIBE TO THEM IN DETAIL YOUR FAVOURITE MEMORY OF THEM/ TWO OF YOU)
+WILDCARD,TELL THE OTHER PERSON TO CLOSE THEIR EYES AND TO KEEP THEM CLOSED. (WAIT 15 SECONDS AND KISS THEM)
 WILDCARD,PRESS SHUFFLE ON YOUR MUSIC LIBRARY. EXPLAIN THE FIRST SONG THAT COMES UP!
 WILDCARD,LET GO OF YOUR ATTACHMENT TO THE OUTCOME
 wildcard,BOTH PLAYERS SHARE SOMETHING YOU'RE MOST GRATEFUL FOR IN THIS CURRENT MOMENT.
@@ -100,4 +100,4 @@ WILDCARD,SHARE A FAVOURITE MEMORY OF YOURS. COMPARE. (BOTH)
 WILDCARD,SING YOUR FAVOURITE SONG LYRICS YOU CAN THINK OF OFF THE TOP OF YOUR HEAD. (BOTH)
 WILDCARD,HOW CAN I ADD 1% MORE HAPPINESS IN YOUR LIFE?
 WILDCARD,Draw your favorite memory with me. Compare.
-who's been on your mind lately? Send them a text letting them know you're thinking of them. (Everyone)
+WILDCARD,who's been on your mind lately? Send them a text letting them know you're thinking of them. (Everyone)
